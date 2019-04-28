@@ -1,15 +1,15 @@
 <template>
   <div id="app">
-    <Calendar/>
+    <Calendario/>
   </div>
 </template>
 
 <script>
-import Calendar from './components/Calendar.vue'
+import Calendario from './components/Calendario.vue'
 
 export default {
   components: {
-    Calendar
+    Calendario
   }
 }
 </script>
