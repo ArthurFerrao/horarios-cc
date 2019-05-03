@@ -20,7 +20,7 @@ export default {
     border: 1px solid rgba(88, 0, 189, 0.692);
     color: rgb(255, 255, 255);
     font-weight: bold;
-    font-size: 15px;
+    font-size: 12px;
     margin: 2px;
 }
 </style>

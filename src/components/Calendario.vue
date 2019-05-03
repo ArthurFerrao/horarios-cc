@@ -79,7 +79,7 @@ export default {
     justify-self: center;
     color: rgba(21, 67, 128, 0.582);
     font-weight: bold;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 </style>
